@@ -21,10 +21,9 @@
   
 <br>
   
-## 🌱 GitHub Status 🌱
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-jiun)](https://github.com/anuraghazra/github-readme-stats)
- [![Jiun's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-jiun)](https://github.com/anuraghazra/github-readme-stats)
+## 🌱 Portfolio 🌱
+
+### https://s-jiun.github.io/
   
 <br>
   
