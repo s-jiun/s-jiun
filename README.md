@@ -25,8 +25,3 @@
 
 ### https://s-jiun.github.io/
   
-<br>
-  
-## 💖 My Blog 💖
-  
-### https://blog.naver.com/747miriyam
