@@ -1,9 +1,4 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seo%20Jiun&fontSize=90)  
-#### 풀스택 개발을 공부 중인 학생입니다! ☺
-
-<br>
   
 ## 🛠️ Tech Stack 🛠️ 
   
