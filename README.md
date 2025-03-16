@@ -1,6 +1,9 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seo%20Jiun&fontSize=90)
+
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seo%20Jiun&fontSize=90)  
+
+<br> 
 ## 🛠️ Tech Stack 🛠️ 
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
