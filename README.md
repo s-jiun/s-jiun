@@ -1,4 +1,5 @@
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seo%20Jiun&fontSize=90)
   
 ## 🛠️ Tech Stack 🛠️ 
   
